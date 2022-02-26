@@ -74,7 +74,7 @@ Every componente has the same structure
 
 The component archicture is set up following the atomic design methodology.
 
-![Atomic Design](http://atomicdesign.bradfrost.com/images/content/atomic-design-molecules.png)
+![Atomic Design](https://bradfrost.com/wp-content/uploads/2013/06/atomic-design.png)
 
 ## How to contribute
 
