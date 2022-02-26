@@ -1,5 +1,5 @@
 /** Componentes */
-import Button from './components/Button/ButtonComponent'
+import Button from './components/atoms/Button/Button';
 import Checkbox from './components/Checkbox/CheckboxComponent'
 import Collapse from './components/Collapse/CollapseComponent'
 import Dropdown from './components/Dropdown/DropdownComponent'

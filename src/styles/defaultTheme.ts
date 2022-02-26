@@ -1,5 +1,5 @@
-import { css } from 'styled-components'
-import { Theme } from './types'
+import { css } from 'styled-components';
+import { Theme } from './types';
 
 export const defaultTheme: Theme = {
     name: 'default',

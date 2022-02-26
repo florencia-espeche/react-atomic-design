@@ -1,5 +1,5 @@
-import { render, RenderOptions } from '@testing-library/react'
 import React, { ReactElement, FC } from 'react'
+import { render, RenderOptions } from '@testing-library/react'
 import { defaultTheme } from '../styles/defaultTheme'
 import { CustomThemeProvider } from '../hooks/useTheme/ThemeContext'
 
