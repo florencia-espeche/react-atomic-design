@@ -1,5 +1,5 @@
 {
-    "name": "react-martins-component-library",
+    "name": "react-component-library",
     "version": "0.1.54",
     "main": "build/index.js",
     "types": "build/src/index.d.ts",
