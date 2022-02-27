@@ -1,0 +1,121 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextInput Component Should be able to match a snapshot 1`] = `
+.c0 {
+  position: relative;
+  width: 100%;
+  height: 32px;
+}
+
+.c1 {
+  box-sizing: border-box;
+  position: relative;
+  background-color: #EEEEEE;
+  padding: 0;
+  width: 100%;
+  border: none;
+  color: #000;
+  border-radius: 0;
+  outline: none;
+  -webkit-transition: 0.1s ease-out;
+  transition: 0.1s ease-out;
+  box-shadow: inset 0 0 0 2px transparent;
+}
+
+.c1:focus {
+  box-shadow: inset 0 0 0 2px #000;
+}
+
+<div
+  class="c0"
+  width="100%"
+>
+  <input
+    class="c1"
+    data-testid="input"
+    placeholder="Test"
+    value=""
+    width="100%"
+  />
+</div>
+`;
+
+exports[`TextInput Component Should be able to match a snapshot with true parameter 1`] = `
+.c0 {
+  position: relative;
+  width: 100%;
+  height: 32px;
+}
+
+.c1 {
+  box-sizing: border-box;
+  position: relative;
+  background-color: #EEEEEE;
+  padding: 0;
+  width: 100%;
+  border: none;
+  color: #000;
+  border-radius: 0;
+  outline: none;
+  -webkit-transition: 0.1s ease-out;
+  transition: 0.1s ease-out;
+  box-shadow: inset 0 0 0 2px transparent;
+}
+
+.c1:focus {
+  box-shadow: inset 0 0 0 2px #000;
+}
+
+<div
+  class="c0"
+  width="100%"
+>
+  <input
+    class="c1"
+    data-testid="input"
+    placeholder="Test"
+    value=""
+    width="100%"
+  />
+</div>
+`;
+
+exports[`TextInput Component Should render the component with medium size 1`] = `
+.c0 {
+  position: relative;
+  width: 100%;
+  height: 32px;
+}
+
+.c1 {
+  box-sizing: border-box;
+  position: relative;
+  background-color: #EEEEEE;
+  padding: 0;
+  width: 100%;
+  border: none;
+  color: #000;
+  border-radius: 0;
+  outline: none;
+  -webkit-transition: 0.1s ease-out;
+  transition: 0.1s ease-out;
+  box-shadow: inset 0 0 0 2px transparent;
+}
+
+.c1:focus {
+  box-shadow: inset 0 0 0 2px #000;
+}
+
+<div
+  class="c0"
+  width="100%"
+>
+  <input
+    class="c1"
+    data-testid="input"
+    placeholder="Test"
+    value=""
+    width="100%"
+  />
+</div>
+`;

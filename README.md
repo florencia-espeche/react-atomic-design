@@ -41,7 +41,11 @@ Executes the storybook in http://localhost:6006/
 ```
     yarn storybook
 ```
+Update snapshots
 
+```
+    yarn test -u
+```
 Execute tests
 
 ```
