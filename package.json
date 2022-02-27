@@ -43,6 +43,7 @@
         "@rollup/plugin-commonjs": "^20.0.0",
         "@rollup/plugin-node-resolve": "^13.0.4",
         "@storybook/addon-docs": "^6.4.9",
+        "@storybook/addon-essentials": "^6.4.19",
         "@storybook/react": "^6.4.9",
         "@storybook/storybook-deployer": "^2.8.10",
         "@svgr/rollup": "^5.5.0",
@@ -78,6 +79,7 @@
     },
     "dependencies": {
         "@storybook/addon-actions": "^6.4.19",
+        "@storybook/addons": "^6.4.19",
         "react-icons": "^4.3.1",
         "react-spring": "^9.2.4",
         "styled-components": "^5.3.1"
