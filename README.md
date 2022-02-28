@@ -1,7 +1,6 @@
-# Crypto Avisos Component Library
+# React Atomic Design Component Library
 
-This repo aims to be used as a design system for CryptoAvisos.com
-contains several components written in react
+This repo aims to be used as a Design System
 
 # Storybook
 
@@ -60,32 +59,22 @@ Execute test by name
 
 ## Component's structure
 
-Every componente has the same structure
+Every component has the same structure
 
 -   `Button/__test__` A folder to keep all tests of the component
 
 -   `Button/__test__/__snapshots__` Where are generated all snapshots of this component
 
--   `Button/__test__/Button.tsx` Where we craft all the tests of this component
+-   `Button/__test__/Button.test.tsx` Where we craft all the tests of this component
 
 -   `Button/Button.tsx` Where we craft the component
 
 -   `Button/Button.style.ts` Where we craft the styled components to use in Button.tsx
 
--   `Button/Button.types.ts` Where we craft all types used in Button.tsx
+-   `Button/Button.stories.tsx` Where we craft all types used in Button.tsx
 
 ## Atomic design structure
 
 The component archicture is set up following the atomic design methodology.
 
 ![Atomic Design](https://bradfrost.com/wp-content/uploads/2013/06/atomic-design.png)
-
-## How to contribute
-
-We use trunk based development
-
--   We have a branch MAIN
--   To contribute you have to create a branch based on a main branch
--   Generate a Pull Request
--   After Merge your Pull Request
--   Your code will be on the Main branch waiting for a release publish
